@@ -10,14 +10,22 @@
 - Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade profissional na área de tecnologia. 🚀
 - Embora eu esteja em uma fase de aprendizado e crescimento, dedico grande parte do meu tempo ao estudo prático da programação. Acredito que a tecnologia deve ser usada para simplificar a vida, e meu maior interesse é aplicar o Python para criar soluções de automação que economizem tempo e organizem dados em planilhas. 📊
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
+###
 ## 🧠 My Focus Areas
 - Automação de Processos: Meu maior interesse é utilizar Python para criar scripts que automatizam tarefas repetitivas em planilhas (Excel/CSV), eliminando o trabalho manual e reduzindo erros.
 - Desenvolvimento Backend: Estou estudando FastAPI para entender como estruturar APIs funcionais e integrá-las a soluções de dados.
 - Organização e Versionamento: Estou empenhado em aplicar boas práticas de Git e GitHub em todos os meus estudos, tratando meu aprendizado com a seriedade de um ambiente de desenvolvimento real.
 - Resolução de Problemas: Mais do que apenas escrever código, foco em como a programação pode tornar um negócio ou tarefa mais eficiente.
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
+###
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/matheus-analyst">
@@ -29,7 +37,11 @@
   <img src="https://trophy.ryglcloud.net/?username=matheus-analyst&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Matheus dos Santos's GitHub Trophies" />
 </p>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
+###
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -62,7 +74,11 @@
 </div>
 
 ###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
+###
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-santos-py/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Matheus dos Santos's LinkedIn"/></a>&nbsp;&nbsp;
