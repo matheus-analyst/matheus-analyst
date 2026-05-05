@@ -8,73 +8,55 @@
 
 ## 📌 About Me
 - Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade profissional na área de tecnologia. 🚀
-- Embora eu esteja em uma fase de aprendizado e crescimento, dedico grande parte do meu tempo ao estudo prático da programação. Acredito que a tecnologia deve ser usada para simplificar a vida, e meu maior interesse é aplicar o Python para criar soluções de automação que economizem tempo e organizem dados em planilhas. 📊
+- Foco em Python para automação de planilhas e análise de dados. 📊
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-## 🧠 My Focus Areas
-- Automação de Processos: Meu maior interesse é utilizar Python para criar scripts que automatizam tarefas repetitivas em planilhas (Excel/CSV), eliminando o trabalho manual e reduzindo erros.
-- Desenvolvimento Backend: Estou estudando FastAPI para entender como estruturar APIs funcionais e integrá-las a soluções de dados.
-- Organização e Versionamento: Estou empenhado em aplicar boas práticas de Git e GitHub em todos os meus estudos, tratando meu aprendizado com a seriedade de um ambiente de desenvolvimento real.
-- Resolução de Problemas: Mais do que apenas escrever código, foco em como a programação pode tornar um negócio ou tarefa mais eficiente.
+## 🧠 Focus Areas
+- Automação Python (Excel/CSV)
+- Análise de Dados com Pandas
+- Backend FastAPI
+- Git & boas práticas
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/matheus-analyst">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheus-analyst&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="matheus-analyst's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheus-analyst&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Stats" />
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-analyst&theme=radical&hide_border=true&currStreakLabel=Atual&fire=🐍&currStreakNum=%current_streak&sideNums=true" alt="matheus-analyst's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-analyst&theme=radical&hide_border=true&currStreakLabel=Atual&fire=🐍&currStreakNum=%current_streak&sideNums=true" alt="Streak" width="49%" />
 </p>
+
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=matheus-analyst&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Matheus dos Santos's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=matheus-analyst&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Trophies" />
 </p>
 
-## 🚀 Projetos Destaque
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>📈 Análise de Dados Imobiliária</h3>
-        <p><b>Python + Pandas + Matplotlib</b></p>
-        <p>Análise exploratória de vendas por região (SP lidera 50%), limpeza de dados, gráficos e insights de mercado. Exporta relatório e CSV pronto para dashboard.</p>
-        <a href="https://github.com/SEU_USERNAME/analise-dados-imobiliaria">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link">
-        </a>
-        <br><img src="https://via.placeholder.com/400x200/0a2540/a371f7?text=Dashboard+Vendas+SP+50%25" width="80%">
-      </td>
-    </tr>
-  </table>
-  <p><i>💡 Mais projetos em breve: Automação Excel, API FastAPI...</i></p>
-</div>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+## 🚀 Projetos
+<p align="center">
+  <a href="https://github.com/matheus-analyst/SEU-PROJETO-ATUAL">
+    <img src="https://img.shields.io/badge/GitHub-Projeto%20em%20Desenvolvimento-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Projeto Atual">
+  </a>
+</p>
+<p align="center"><i>Mais projetos em breve...</i></p>
 
 ## 🛠️ Tech Stack
-<h3 align="center">Data & Backend</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
 </div>
 
-## 🔗 Contato Profissional
+## 🔗 Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-santos-py/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:matheuspydjango@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/matheus-santos-py/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:matheuspydjango@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <picture>
