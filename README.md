@@ -45,7 +45,7 @@
   </a>
 </p>
 <p align="center"><i>Mais projetos em breve...</i></p>
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeDA1dWNpdjhrcjU3bnhldHhzMW5yMW85ZW43ZXIwN3A1NXEzMDlxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<\br>
 
 ###
 <div>
