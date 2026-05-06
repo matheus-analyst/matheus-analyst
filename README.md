@@ -10,18 +10,21 @@
 - Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade profissional na área de tecnologia. 🚀
 - Foco em Python para automação de planilhas e análise de dados. 📊
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<br>
+<br>
+<br>
+<br>
 
 ## 🧠 Focus Areas
 - Automação Python (Excel/CSV)
 - Análise de Dados com Pandas
 - Backend FastAPI
 - Git & boas práticas
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<br>
+<br>
+<br>
+<br>
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -34,9 +37,12 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=matheus-analyst&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Trophies" />
 </p>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+
+<br>
+<br>
+<br>
+<br>
+
 
 ## 🚀 Projetos
 <p align="center">
@@ -48,9 +54,10 @@
 <br>
 
 ###
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<br>
+<br>
+<br>
+<br>
 
 ## 🛠️ Tech Stack
 <div align="center">
