@@ -12,8 +12,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 ## 🧠 Focus Areas
 - Automação Python (Excel/CSV)
@@ -22,8 +21,7 @@
 - Git & boas práticas
 <br>
 <br>
-<br>
-<br>
+
 
 
 ## 📊 GitHub Stats
@@ -40,8 +38,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 
 ## 🚀 Projetos
@@ -56,8 +53,7 @@
 ###
 <br>
 <br>
-<br>
-<br>
+
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -70,12 +66,12 @@
 <div>
 <br>
 <br>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+  
 
 
 ## 🔗 Contato
 <p align="center">
+<br>
   <a href="https://www.linkedin.com/in/matheus-santos-py/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
