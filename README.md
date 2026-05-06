@@ -45,7 +45,7 @@
   </a>
 </p>
 <p align="center"><i>Mais projetos em breve...</i></p>
-<\br>
+<br>
 
 ###
 <div>
