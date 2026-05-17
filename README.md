@@ -42,14 +42,14 @@
 <br>
 
 ## 🚀 Projetos
+### 📊 Análise de Vendas com Python e Pandas
+Projeto desenvolvido com Python, Pandas e Plotly para analisar uma base de vendas, calcular faturamento, ticket médio e quantidade vendida, e automatizar o envio de relatórios por e-mail em HTML.
+
 <p align="center">
   <a href="https://github.com/matheus-analyst/Data_Science" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Projeto-Click%20Here-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto">
   </a>
 </p>
-
-### 📊 Análise de Vendas com Python e Pandas
-Projeto desenvolvido com Python, Pandas e Plotly para analisar uma base de vendas, calcular faturamento, ticket médio e quantidade vendida, e automatizar o envio de relatórios por e-mail em HTML.
 
 <br>
 <br>
@@ -74,11 +74,16 @@ Projeto desenvolvido com Python, Pandas e Plotly para analisar uma base de venda
 
 ## 🔗 Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-santos-py/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/matheus-santos-py/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:matheuspydjango@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/matheus-analyst" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
