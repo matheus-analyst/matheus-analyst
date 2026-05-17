@@ -8,21 +8,23 @@
 
 ## 📌 About Me
 - Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade profissional na área de tecnologia. 🚀
-- Foco em Python para automação de planilhas e análise de dados. 📊
+- Foco em Python para automação de planilhas, análise de dados e criação de soluções práticas. 📊
 
 <br>
 <br>
-
 
 ## 🧠 Focus Areas
-- Automação Python (Excel/CSV)
+- Automação com Python
 - Análise de Dados com Pandas
-- Backend FastAPI
-- Git & boas práticas
+- Visualização de Dados com Plotly
+- Banco de Dados com SQL e PostgreSQL
+- Desenvolvimento Backend com FastAPI
+- Versionamento com Git e GitHub
+- Interfaces com PyQt6
+- Excel, CSV e OpenPyXL
+
 <br>
 <br>
-
-
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -39,39 +41,39 @@
 <br>
 <br>
 
-
-
 ## 🚀 Projetos
 <p align="center">
-  <a href="https://github.com/matheus-analyst/Data_Science">
-    <img src="https://img.shields.io/badge/GitHub-Projeto%20em%20Desenvolvimento-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Projeto Atual">
+  <a href="https://github.com/matheus-analyst/Data_Science" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Projeto-Click%20Here-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto">
   </a>
 </p>
-<p align="center"><i>Mais projetos em breve...</i></p>
-<br>
 
-###
-<br>
-<br>
+### 📊 Análise de Vendas com Python e Pandas
+Projeto desenvolvido com Python, Pandas e Plotly para analisar uma base de vendas, calcular faturamento, ticket médio e quantidade vendida, e automatizar o envio de relatórios por e-mail em HTML.
 
+<br>
+<br>
 
 ## 🛠️ Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" title="Plotly" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
 </div>
-<div>
-<br>
-<br>
-  
 
+<br>
+<br>
 
 ## 🔗 Contato
 <p align="center">
-<br>
   <a href="https://www.linkedin.com/in/matheus-santos-py/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
