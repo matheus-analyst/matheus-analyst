@@ -53,14 +53,6 @@
 
 - [Data Science](https://github.com/matheus-analyst/Data_Science) — Análises e projetos de ciência de dados com notebooks Jupyter.
 
-
-
-<p align="center">
-  <a href="https://github.com/matheus-analyst/Data_Science" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Projeto-Click%20Here-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto">
-  </a>
-</p>
-
 <br>
 <br>
 
