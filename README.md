@@ -42,8 +42,18 @@
 <br>
 
 ## 🚀 Projetos
-### 📊 Análise de Vendas com Python e Pandas
-Projeto desenvolvido com Python, Pandas e Plotly para analisar uma base de vendas, calcular faturamento, ticket médio e quantidade vendida, e automatizar o envio de relatórios por e-mail em HTML.
+
+- [Bot de Automação para Monitoramento de Preços de Produtos](https://github.com/matheus-analyst/Bot-de-Automa-o-para-Monitoramento-de-Pre-os-de-Produtos) — Bot automatizado para monitorar preços de produtos com alertas e notificações.
+
+- [Sistema de Automação de Relatórios Automáticos com Email](https://github.com/matheus-analyst/Sistema-de-Automa-o-de-Relat-rios-Autom-ticos-com-Email) — Sistema que gera relatórios automáticos e os distribui via email.
+
+- [API RESTful](https://github.com/matheus-analyst/API-RESTful) — Implementação de uma API RESTful com Python para integração de serviços.
+
+- [Agendamento de Barbearia](https://github.com/matheus-analyst/agendamento-de-barbearia) — Sistema de agendamento para gerenciar compromissos em barbearias.
+
+- [Data Science](https://github.com/matheus-analyst/Data_Science) — Análises e projetos de ciência de dados com notebooks Jupyter.
+
+
 
 <p align="center">
   <a href="https://github.com/matheus-analyst/Data_Science" target="_blank">
