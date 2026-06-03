@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Matheus%20dos%20Santos&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer%20Python&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Matheus%20dos%20Santos&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Python%20•%20IoT%20•%20n8n&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=matheus-analyst">
@@ -7,21 +7,23 @@
 </p>
 
 ## 📌 About Me
-- Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade profissional na área de tecnologia. 🚀
-- Foco em Python para automação de planilhas, análise de dados e criação de soluções práticas. 📊
+- Sou estudante de tecnologia apaixonado por **Python**, **IoT** e **n8n**, construindo meu conhecimento criando projetos práticos. 🚀
+- Foco em automação com Python, integração de sensores/dispositivos e fluxos automatizados com n8n. 🌐
+- Estou em busca da minha primeira oportunidade como Python IoT Developer. 🔧
 
 <br>
 <br>
 
 ## 🧠 Focus Areas
-- Automação com Python
-- Análise de Dados com Pandas
-- Visualização de Dados com Plotly
-- Banco de Dados com SQL e PostgreSQL
-- Desenvolvimento Backend com FastAPI
+- **Python** para automação e backend
+- **IoT** com ESP32, Arduino e sensores
+- **n8n** para workflows e integrações
+- **C/C++** para microcontroladores e firmware
+- Desenvolvimento Backend com FastAPI e Flask
 - Versionamento com Git e GitHub
 - Interfaces com PyQt6
-- Excel, CSV e OpenPyXL
+- Banco de Dados com SQL e PostgreSQL
+- APIs RESTful e webhooks
 
 <br>
 <br>
@@ -59,11 +61,12 @@
 ## 🛠️ Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" title="Plotly" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" height="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="40" title="n8n" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" title="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
